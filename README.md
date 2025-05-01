@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kittu — CSS UI Developer</h1>
+<h1 align="center">Hi, I'm Ravi — CSS UI Developer</h1>
 
 <p align="center">
   I build daily CSS micro projects and creative UI components.<br>
